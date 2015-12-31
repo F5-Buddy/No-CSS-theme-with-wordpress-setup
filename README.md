@@ -18,3 +18,10 @@ WP Login Detail
 Username/Password - admin/admin
 
 ___________________
+
+Benefits:
+
+* Added Font-awesome/Glyphicon
+* Manage Social Media under wp setting
+* Revolution and Layer sliders installed
+
